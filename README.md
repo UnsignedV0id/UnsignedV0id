@@ -1,5 +1,8 @@
 ### Sup ☠
-
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://count.getloli.com/get/UnsignedV0id" alt=":UnsignedV0id" />
+</p> -->
 <!--
 
 Here are some ideas to get you started:
