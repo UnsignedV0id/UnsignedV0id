@@ -1,1 +1,1 @@
-<img src="https://count.getloli.com/get/@:UnsignedV0id" ?theme="rule34" alt=":UnsignedV0id" />
+<img src="https://count.getloli.com/get/UnsignedV0id" alt=":UnsignedV0id" />
