@@ -1,1 +1,1 @@
-![Counter]([https://count.getloli.com/get/@UnsignedV0id?theme=rule34)])
+![Counter](https://count.getloli.com/get/@UnsignedV0id?theme=rule34))
