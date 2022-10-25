@@ -1,4 +1,4 @@
-![alt text](https://github.com/UnsignedV0id/UnsignedV0id/blob/main/Unsigned_Void.jpg?raw=true)
+![alt text](https://github.com/UnsignedV0id/UnsignedV0id/blob/main/Unsigned_Void.png?raw=true)
 
 
 <a href="https://www.data-card-for-spotify.com/card?user_id=12156567363">
