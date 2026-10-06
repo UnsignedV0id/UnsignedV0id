@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://count.getloli.com">
-    <img src="https://moe-counter.glitch.me/get/@UnsignedV0id?theme=rule34" />
+    <img src="[https://moe-counter.glitch.me/get/@UnsignedV0id?theme=rule34](https://count.getloli.com/@UnsignedV0id?=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" />
     <div style="text-align: right;">
     <a href="http://unsignedvoid.epizy.com/?i=1" target="_blank">
     <img src="https://github.com/UnsignedV0id/UnsignedV0id/blob/main/---.png"  alt="?" /></div>
